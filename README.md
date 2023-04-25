@@ -19,7 +19,7 @@ To run this website locally on your computer, follow these steps:
 
 Clone this repository to your local machine.
 
-git clone https://github.com/your-username/hungarian-news-summary-website.git
+git clone https://github.com/atti199/summajat.git
 Navigate to the cloned repository directory.
 
 cd hungarian-news-summary-website
